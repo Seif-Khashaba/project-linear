@@ -1,4 +1,4 @@
-from Func1 import *
+from Function_1 import *
 
 
 # This function gets the echelon form of the matrix by using gauss elimination
